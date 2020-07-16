@@ -1,0 +1,94 @@
+{
+  "temperature": [
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1000,
+      "TimeStamp": "18/08/2020 1:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 8.1,
+      "TimeStamp": "18/08/2020 1:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1050,
+      "TimeStamp": "19/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 10.2,
+      "TimeStamp": "19/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1100,
+      "TimeStamp": "18/08/2020 3:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 12.4,
+      "TimeStamp": "18/08/2020 3:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1150,
+      "TimeStamp": "19/08/2020 1:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 14,
+      "TimeStamp": "19/08/2020 1:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1200,
+      "TimeStamp": "18/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 16.2,
+      "TimeStamp": "18/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1250,
+      "TimeStamp": "20/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 18.4,
+      "TimeStamp": "20/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1300,
+      "TimeStamp": "21/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 20.6,
+      "TimeStamp": "21/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1350,
+      "TimeStamp": "22/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 22.4,
+      "TimeStamp": "22/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/activeenery-total",
+      "Value": 1400,
+      "TimeStamp": "23/08/2020 2:00 PM"
+    },
+    {
+      "TagName": "domain/subdomain/320-tr/value",
+      "Value": 24,
+      "TimeStamp": "23/08/2020 2:00 PM"
+    }
+  ]
+}
