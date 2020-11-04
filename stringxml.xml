@@ -1,4 +1,4 @@
-<?string version="1.0" encoding="UTF-8"?>
+<string>
 <NewDataSet>
   <Table>
     <employee>Heini Aho</employee>
@@ -788,3 +788,4 @@
     <ind_cnsl_duration>0.780000</ind_cnsl_duration>
   </Table>
 </NewDataSet>
+</string>
