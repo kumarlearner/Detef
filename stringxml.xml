@@ -1,0 +1,791 @@
+<string>
+<NewDataSet>
+  <Table>
+    <employee>Heini Aho</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>32.00</total_prod_hours>
+    <actual_group_hours>5.870000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>24.00</assessment_assumed_duration>
+    <assessment_prod_hrs>24.000000</assessment_prod_hrs>
+    <cm_duration>2.000000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Timothy Furtado</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>29.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>29.00</assessment_assumed_duration>
+    <assessment_prod_hrs>24.080000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Shonyara Turner</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>27.67</total_prod_hours>
+    <actual_group_hours>11.870000</actual_group_hours>
+    <group_hours_assumption>12</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>15.670000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Nichole Kim</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>27.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>27.00</assessment_assumed_duration>
+    <assessment_prod_hrs>24.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Patxi Peguero</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>27.00</total_prod_hours>
+    <actual_group_hours>22.000000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>5.000000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Kristen Fitzpatrick</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>25.90</total_prod_hours>
+    <actual_group_hours>21.050000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>3.900000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Ruby Wright</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>25.33</total_prod_hours>
+    <actual_group_hours>9.920000</actual_group_hours>
+    <group_hours_assumption>10</group_hours_assumption>
+    <assessment_assumed_duration>10.00</assessment_assumed_duration>
+    <assessment_prod_hrs>3.800000</assessment_prod_hrs>
+    <cm_duration>4.800000</cm_duration>
+    <ind_cnsl_duration>0.530000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Nicole Schoenick</employee>
+    <supervisor>Alexis Sanchez</supervisor>
+    <total_prod_hours>25.08</total_prod_hours>
+    <actual_group_hours>20.830000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>3.080000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Taurell Saumalu</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>24.23</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>24.230000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Amanda Metcalfe</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>24.00</total_prod_hours>
+    <actual_group_hours>12.000000</actual_group_hours>
+    <group_hours_assumption>12</group_hours_assumption>
+    <itis_duration>2.000000</itis_duration>
+    <assessment_assumed_duration>10.00</assessment_assumed_duration>
+    <assessment_prod_hrs>8.500000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Denise Crawford</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>23.83</total_prod_hours>
+    <actual_group_hours>20.980000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>1.830000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Clarence Johnson</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>23.70</total_prod_hours>
+    <actual_group_hours>20.570000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>1.700000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Monica Kline</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>23.00</total_prod_hours>
+    <actual_group_hours>22.220000</actual_group_hours>
+    <group_hours_assumption>22</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>1.000000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Jeannie Medina</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>22.60</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>22.600000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Keren Carreon</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>21.72</total_prod_hours>
+    <actual_group_hours>2.000000</actual_group_hours>
+    <group_hours_assumption>2</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>19.720000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Donna Alford</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>20.45</total_prod_hours>
+    <actual_group_hours>13.700000</actual_group_hours>
+    <group_hours_assumption>14</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>6.450000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Robin San George</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>20.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>20.00</assessment_assumed_duration>
+    <assessment_prod_hrs>15.930000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Nicole Iemmiti</employee>
+    <supervisor>Brenda Young</supervisor>
+    <total_prod_hours>19.88</total_prod_hours>
+    <actual_group_hours>5.930000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>12.880000</cm_duration>
+    <ind_cnsl_duration>1.000000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Darren Lee</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>19.87</total_prod_hours>
+    <actual_group_hours>17.270000</actual_group_hours>
+    <group_hours_assumption>18</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>1.870000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Patricia Price</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>19.48</total_prod_hours>
+    <actual_group_hours>11.680000</actual_group_hours>
+    <group_hours_assumption>12</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>7.480000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Erica Daws</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>19.43</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>19.430000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Joshua Smith</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>19.35</total_prod_hours>
+    <actual_group_hours>14.200000</actual_group_hours>
+    <group_hours_assumption>16</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>3.350000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Shira Zias</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>19.17</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>16.00</assessment_assumed_duration>
+    <assessment_prod_hrs>15.170000</assessment_prod_hrs>
+    <cm_duration>2.170000</cm_duration>
+    <ind_cnsl_duration>1.000000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Sebastian Barrie</employee>
+    <supervisor>Brenda Young</supervisor>
+    <total_prod_hours>19.07</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>19.070000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Robert Klimek</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>18.93</total_prod_hours>
+    <actual_group_hours>11.480000</actual_group_hours>
+    <group_hours_assumption>18</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>0.930000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Claudia Ramirez</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>18.54</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>4.00</assessment_assumed_duration>
+    <assessment_prod_hrs>2.000000</assessment_prod_hrs>
+    <cm_duration>6.470000</cm_duration>
+    <ind_cnsl_duration>8.070000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Karina Brungardt</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>18.48</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>18.480000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Celia Jose</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>18.41</total_prod_hours>
+    <actual_group_hours>11.620000</actual_group_hours>
+    <group_hours_assumption>12</group_hours_assumption>
+    <assessment_assumed_duration>4.00</assessment_assumed_duration>
+    <assessment_prod_hrs>3.370000</assessment_prod_hrs>
+    <cm_duration>0.430000</cm_duration>
+    <ind_cnsl_duration>1.980000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Gina Buoscio</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>18.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>18.00</assessment_assumed_duration>
+    <assessment_prod_hrs>13.500000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Jessica Young</employee>
+    <supervisor>Don Paterson</supervisor>
+    <total_prod_hours>18.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>18.00</assessment_assumed_duration>
+    <assessment_prod_hrs>12.520000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Jillian Turner</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>18.00</total_prod_hours>
+    <actual_group_hours>17.000000</actual_group_hours>
+    <group_hours_assumption>18</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Megan Rosso</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>18.00</total_prod_hours>
+    <actual_group_hours>18.170000</actual_group_hours>
+    <group_hours_assumption>18</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Tiffany Harrison</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>18.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>18.00</assessment_assumed_duration>
+    <assessment_prod_hrs>22.220000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Kathryn VanDehei</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>17.37</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>15.00</assessment_assumed_duration>
+    <assessment_prod_hrs>11.380000</assessment_prod_hrs>
+    <ind_cnsl_duration>2.370000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Martha Tambini</employee>
+    <supervisor>Don Paterson</supervisor>
+    <total_prod_hours>16.97</total_prod_hours>
+    <actual_group_hours>15.400000</actual_group_hours>
+    <group_hours_assumption>16</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>0.970000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Whitney Meeker</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>16.12</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>16.120000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Autumn McDaniel</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>16.00</total_prod_hours>
+    <actual_group_hours>5.930000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>10.00</assessment_assumed_duration>
+    <assessment_prod_hrs>8.220000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Cheryl Sandell</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>16.00</total_prod_hours>
+    <actual_group_hours>14.650000</actual_group_hours>
+    <group_hours_assumption>16</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Cheryl Sandell</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>16.00</total_prod_hours>
+    <actual_group_hours>14.650000</actual_group_hours>
+    <group_hours_assumption>16</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Kendall Hutter</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>15.87</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>15.870000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Crystal Kapuscinski</employee>
+    <supervisor>Brenda Young</supervisor>
+    <total_prod_hours>15.12</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>12.00</assessment_assumed_duration>
+    <assessment_prod_hrs>6.920000</assessment_prod_hrs>
+    <cm_duration>0.200000</cm_duration>
+    <ind_cnsl_duration>2.920000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Jeffrey Smith</employee>
+    <supervisor>Darren Lee</supervisor>
+    <total_prod_hours>14.95</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>14.950000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Conley Larose</employee>
+    <supervisor>Alexis Sanchez</supervisor>
+    <total_prod_hours>14.00</total_prod_hours>
+    <actual_group_hours>13.830000</actual_group_hours>
+    <group_hours_assumption>14</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Lakesha Parris</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>13.97</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>13.970000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Alyssa Luna</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>13.20</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>13.200000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Christina Rhoades</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>12.70</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>12.700000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Kaitlyn Bailey</employee>
+    <supervisor>Brenda Young</supervisor>
+    <total_prod_hours>12.12</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>12.120000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Kaitlyn Bailey</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>12.12</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>12.120000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Jean Ball</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>11.25</total_prod_hours>
+    <actual_group_hours>7.850000</actual_group_hours>
+    <group_hours_assumption>8</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>3.250000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>RaKeia McNeill</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>10.20</total_prod_hours>
+    <actual_group_hours>7.630000</actual_group_hours>
+    <group_hours_assumption>8</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>2.200000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Daniel Bejar</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>10.00</total_prod_hours>
+    <actual_group_hours>10.000000</actual_group_hours>
+    <group_hours_assumption>10</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Matita Martin</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>10.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>10.00</assessment_assumed_duration>
+    <assessment_prod_hrs>5.880000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Maureen Colson</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>10.00</total_prod_hours>
+    <actual_group_hours>9.650000</actual_group_hours>
+    <group_hours_assumption>10</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Trelayna Garner</employee>
+    <supervisor>Don Paterson</supervisor>
+    <total_prod_hours>10.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>10.00</assessment_assumed_duration>
+    <assessment_prod_hrs>12.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Lizabeth De Loera</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>9.62</total_prod_hours>
+    <actual_group_hours>1.670000</actual_group_hours>
+    <group_hours_assumption>2</group_hours_assumption>
+    <actual_education_hours>7.616666</actual_education_hours>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Alisha Franklin</employee>
+    <supervisor>Jean Ball</supervisor>
+    <total_prod_hours>8.00</total_prod_hours>
+    <actual_group_hours>6.770000</actual_group_hours>
+    <group_hours_assumption>8</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Allison Griffeth</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>8.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <actual_education_hours>8.000000</actual_education_hours>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Allison Griffeth</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>8.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <actual_education_hours>8.000000</actual_education_hours>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Justin Ashbridge</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>8.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <actual_education_hours>8.000000</actual_education_hours>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Shanice Lopriore</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>8.00</total_prod_hours>
+    <actual_group_hours>8.000000</actual_group_hours>
+    <group_hours_assumption>8</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Abigail Pederson</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>7.73</total_prod_hours>
+    <actual_group_hours>2.000000</actual_group_hours>
+    <group_hours_assumption>2</group_hours_assumption>
+    <assessment_assumed_duration>4.00</assessment_assumed_duration>
+    <assessment_prod_hrs>4.700000</assessment_prod_hrs>
+    <cm_duration>1.730000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Samuel Rodriguez</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>7.42</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>7.420000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Mercedes Trinko</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>7.17</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>7.170000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Heather Tinnelly</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>6.92</total_prod_hours>
+    <actual_group_hours>5.850000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>0.920000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Eli Ramirez</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>6.05</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <cm_duration>6.050000</cm_duration>
+  </Table>
+  <Table>
+    <employee>Catherine Lapan-Farina</employee>
+    <supervisor>Jean Ball</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>5.800000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Fernando Acosta</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>6.000000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Jenny Lake</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>6.020000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Jenny Lake</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>6.020000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Kristen Starcher</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>5.920000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Rosemary Vargas</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>6.020000</actual_group_hours>
+    <group_hours_assumption>6</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Tara Catanzaro</employee>
+    <supervisor>Linda Cowan</supervisor>
+    <total_prod_hours>6.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>6.00</assessment_assumed_duration>
+    <assessment_prod_hrs>4.630000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Liana Spiwak</employee>
+    <supervisor>Simon Burr</supervisor>
+    <total_prod_hours>4.00</total_prod_hours>
+    <actual_group_hours>3.930000</actual_group_hours>
+    <group_hours_assumption>4</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Todd Andre</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>4.00</total_prod_hours>
+    <actual_group_hours>4.000000</actual_group_hours>
+    <group_hours_assumption>4</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Todd Andre</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>4.00</total_prod_hours>
+    <actual_group_hours>4.000000</actual_group_hours>
+    <group_hours_assumption>4</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Khalil Rushdan</employee>
+    <supervisor>Maria Rocha</supervisor>
+    <total_prod_hours>2.25</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <itis_duration>2.250000</itis_duration>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Maria Rocha</employee>
+    <supervisor>Don Paterson</supervisor>
+    <total_prod_hours>2.00</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>2.000000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Thomas Walter</employee>
+    <supervisor>Daniel Rock</supervisor>
+    <total_prod_hours>2.00</total_prod_hours>
+    <actual_group_hours>2.000000</actual_group_hours>
+    <group_hours_assumption>2</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+  </Table>
+  <Table>
+    <employee>Katie Adams</employee>
+    <supervisor>Diane Ivan</supervisor>
+    <total_prod_hours>0.97</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>0.970000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Kevin Christopher</employee>
+    <supervisor>Paul Orel</supervisor>
+    <total_prod_hours>0.85</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>0.850000</ind_cnsl_duration>
+  </Table>
+  <Table>
+    <employee>Daniel Rock</employee>
+    <supervisor>Tara Catanzaro</supervisor>
+    <total_prod_hours>0.78</total_prod_hours>
+    <actual_group_hours>0.000000</actual_group_hours>
+    <group_hours_assumption>0</group_hours_assumption>
+    <assessment_assumed_duration>0.00</assessment_assumed_duration>
+    <assessment_prod_hrs>0.000000</assessment_prod_hrs>
+    <ind_cnsl_duration>0.780000</ind_cnsl_duration>
+  </Table>
+</NewDataSet>
+</string>
