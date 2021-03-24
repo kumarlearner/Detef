@@ -1,6 +1,10 @@
-{
+[{
 "X-accelaration" : 50,
 "Y-accelaration" : 30,
-"X-accelaration" : 20,
 "Z-accelaration" : 10
-}
+},
+{
+"X-accelaration" : 500,
+"Y-accelaration" : 300,
+"Z-accelaration" : 100
+}]
