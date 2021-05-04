@@ -1,0 +1,21 @@
+{
+"org":"Syncfusion",
+"team":"Big Data",
+"engineers":[
+{
+"name":"Kumar",
+"isLead":true,
+"value":3.45
+},
+{
+"name":"Madhan",
+"isLead":true,
+"value":2.76
+},
+{
+"name":"Kavinraj",
+"isLead":false,
+"value":1.88
+}
+]
+}
