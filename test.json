@@ -1,0 +1,14 @@
+[{
+"name":"kumar",
+"age":28,
+"dob":"22/06/1991 04:30 AM",
+"hobbies":["hacking","programming"],
+"funlover":true
+},
+{
+"name":"suresh",
+"age":27,
+"dob":"22/06/1991 04:30 AM",
+"hobbies":["hacking","programming"],
+"gender":"male"
+}]
