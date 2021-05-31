@@ -1,4 +1,5 @@
-[{
+[
+{
 "name":"kumar",
 "age":28,
 "dob":"22/06/1991 04:30 AM",
@@ -11,4 +12,12 @@
 "dob":"22/06/1991 04:30 AM",
 "hobbies":["hacking","programming"],
 "gender":"male"
-}]
+},
+{
+"name":"kavin",
+"age":24,
+"dob":"20/04/1996 04:30 AM",
+"hobbies":["leaner","programming"],
+"gender":"male"
+}
+]
