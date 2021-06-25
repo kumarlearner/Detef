@@ -11,4 +11,11 @@
 "timestamp": 1624261604111,
 "value": "9"
 }
+},
+{
+"name": "test",
+"latest": {
+"timestamp": 1624261604222,
+"value": "5.34"
+}
 }]
